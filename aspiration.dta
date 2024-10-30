@@ -1,0 +1,7 @@
+///IMPORTATION DE LA BASE ASPIRATION
+
+use"C:\Users\HP\Desktop\Programme-Data-Analyst/aspiration.dta", clear
+///DONNER A NOS VARIABLES LES LIBELLESS
+
+
+ 
